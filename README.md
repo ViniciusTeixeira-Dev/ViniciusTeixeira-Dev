@@ -1,4 +1,3 @@
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0021,100:4A0080&height=120&section=header"/>
 </div>
@@ -9,16 +8,14 @@
 
 <br/>
 
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=99999&color=FFFFFF&background=00000000&vCenter=true&width=300&lines=└─%24+cat+about.json" alt="about"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=99999&color=FFFFFF&background=00000000&vCenter=true&width=320&lines=%E2%94%94%E2%94%80%24+cat+about.json" alt="about"/>
 
 ```json
 {
   "name"        : "Vinicius Araújo Teixeira",
-  "role"        : "BackEnd Developer 💻",
-  "education"   : "Software Engineering Student 🎓",
-  "focus"       : ["Java + Spring Boot", 
+  "role"        : "BackEnd Developer",
+  "education"   : "Software Engineering Student",
+  "focus"       : ["Java + Spring Boot",
                    "REST APIs",
                    "Docker & AWS",
                    "Backend Architecture"],
@@ -29,7 +26,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=99999&color=FFFFFF&background=00000000&vCenter=true&width=300&lines=└─%24+ls+stack%2F" alt="stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=99999&color=FFFFFF&background=00000000&vCenter=true&width=320&lines=%E2%94%94%E2%94%80%24+ls+stack%2F" alt="stack"/>
 
 <br/>
 
@@ -48,7 +45,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=99999&color=FFFFFF&background=00000000&vCenter=true&width=300&lines=└─%24+ping+contact" alt="contact"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=99999&color=FFFFFF&background=00000000&vCenter=true&width=320&lines=%E2%94%94%E2%94%80%24+ping+contact" alt="contact"/>
 
 <br/>
 
@@ -60,7 +57,6 @@
 </div>
 
 <br/>
-
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A0080,100:0D0021&height=100&section=footer"/>
